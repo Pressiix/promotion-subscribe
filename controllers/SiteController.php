@@ -70,7 +70,7 @@ class SiteController extends Controller
             ]);*/
 
             //redirect to external link
-            //return $this->redirect("https://www.bangkokpost.com/");
+            //return $this->redirect("https://www.example.com/");
         }
     }
 
